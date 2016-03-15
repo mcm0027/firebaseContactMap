@@ -1,0 +1,44 @@
+{
+  "users": {
+    "Luke": [
+      {
+        "name": "John",
+        "location": "New York, New York",
+        "meetingTime": "December 25th 2016 6:00 am",
+        "timeZone": "America/New_York"
+      },
+      {
+        "name": "John",
+        "location": "New York, New York",
+        "meetingTime": "December 25th 2016 6:00 am",
+        "timeZone": "America/New_York"
+      },
+      {
+        "name": "John",
+        "location": "New York, New York",
+        "meetingTime": "December 25th 2016 6:00 am",
+        "timeZone": "America/New_York"
+      }
+    ],
+    "Linda": [
+      {
+        "name": "John",
+        "location": "New York, New York",
+        "meetingTime": "December 25th 2016 6:00 am",
+        "timeZone": "America/New_York"
+      },
+      {
+        "name": "John",
+        "location": "New York, New York",
+        "meetingTime": "December 25th 2016 6:00 am",
+        "timeZone": "America/New_York"
+      },
+      {
+        "name": "John",
+        "location": "New York, New York",
+        "meetingTime": "December 25th 2016 6:00 am",
+        "timeZone": "America/New_York"
+      }
+    ]
+  }
+}
